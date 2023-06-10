@@ -1,0 +1,8 @@
+Is our hotel revenue growing by year?
+We have teo hotels types so it would be good to segment revenuw by hotel type
+
+Should we increase our parking lot size?
+We want to understand if there is a trend is guest with personal cars
+
+What trends can we see in the data?
+Focus on average daily rate and guests to explore seasonality.
